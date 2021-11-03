@@ -1,0 +1,1 @@
+python -m cfloader  flash  cf2.bin stm32-fw
